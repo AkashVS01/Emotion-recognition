@@ -12,6 +12,6 @@ ResNet-50 and SqueezeNet are the CNN architectures that has been used to develop
 
 ## Results
 
-ResNet-50 model gives a training accuracy of 75% and testing accuracy of 68%.
-SqueezeNet gives a training accuracy of 72% and testing accuracy of 64% 
+ResNet-50 model gives a training accuracy of 80% and testing accuracy of 68%.
+SqueezeNet gives a training accuracy of 73% and testing accuracy of 64% 
 
